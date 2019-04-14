@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "mockable APIs",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "mockserver -m mocks -p "
   },
   "keywords": [
     "mocker",
