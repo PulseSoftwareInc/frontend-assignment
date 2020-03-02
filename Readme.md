@@ -1,6 +1,7 @@
 # Steps to start the server
 
 - Install node and npm (in case if you haven't).
+- install mockserver (https://www.npmjs.com/package/mockserver)
 - Open terminal and navigate to the folder and execute below commands.
 - `npm install`
 - `mockserver -p 9000 -m mocks`
